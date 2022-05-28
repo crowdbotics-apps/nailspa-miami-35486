@@ -13,7 +13,7 @@ export const modulesOptions = {
 
   "@modules/login": {
     LOGO_URL:
-      "https:-slack-dev.s3.amazonaws.com/media/project_component_resources/cb-icon.png",
+      "https://crowdbotics-slack-dev.s3.amazonaws.com/media/project_component_resources/cb-icon.png",
     BACKGROUND_URL:
       "https://crowdbotics-slack-dev.s3.amazonaws.com/media/project_component_resources/halfbg.png",
     HOME_SCREEN_NAME: "Home Screen",
